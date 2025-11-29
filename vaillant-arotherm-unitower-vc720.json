@@ -1,3 +1,4 @@
+{"id":"insert","commands":
 [
   {
     "key": "02",
@@ -884,3 +885,4 @@
     "ha_payload_off": 0
   }
 ]
+}
